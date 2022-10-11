@@ -1,6 +1,6 @@
 - Hi, I’m Md. Abdullah Al Mamun
 - I’m interested in Web Programming
-- I’m currently learning JS, React
+- I’m currently learning JavaScript, ReactJs
 - I’m looking to collaborate on competetive problem solving
 - Facebook: https://www.facebook.com/md.abdullahalmamun.mamun.712
 - E-mail : abdullahalmamun.cs@gmail.com
