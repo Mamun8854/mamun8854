@@ -1,4 +1,4 @@
-- Hi, I’m Md. Abdullah Al Mamun
+- Hello, I’m Md. Abdullah Al Mamun
 - I’m interested in Web Programming
 - I’m currently learning JavaScript, ReactJs
 - I’m looking to collaborate on competetive problem solving
