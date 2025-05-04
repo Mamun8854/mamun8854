@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Md. Abdullah Al Mamun
 
 ## About Me
-I am passionate about **Web Development** and currently expanding my skills in **Problem Solving** and **Data Structures and Algorithms (DSA)**. I have a strong interest in backend technologies and aim to specialize in **Data Analysis** in the near future.
+I am passionate about **Web Based Software Development** and currently expanding my skills in **Problem Solving** and **Data Structures and Algorithms (DSA)**. I have a strong interest in backend technologies and aim to specialize in **Data Analysis** in the near future.
 
 ## 📚 Currently Learning
 - **Python**
