@@ -11,7 +11,7 @@ I am passionate about **Web Based Software Development** and currently expanding
 
 ## 🌱 Future Goals
 - Advance my skills in **Problem Solving** and **Algorithmic Thinking**  
-- Learn **Data Analysis** and work with tools like **Pandas**, **NumPy**, and **Matplotlib**
+- Explore the field of **Data Analysis**, gaining proficiency in relevant tools and libraries as needed for effective data-driven decision making
 
 ## 📫 Connect with Me
 - **Email**: [abdullahalmamun.cs@gmail.com](mailto:abdullahalmamun.cs@gmail.com)
