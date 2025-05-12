@@ -15,17 +15,19 @@ I am passionate about **Web Based Software Development** and currently expanding
 
 ## 📫 Connect with Me
 
-<a href="mailto:abdullahalmamun.cs@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/32/000000/email.png" alt="Email" style="margin-right: 10px;"/>
-</a>
-<a href="https://www.facebook.com/mridha8854" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/32/000000/facebook-new.png" alt="Facebook" style="margin-right: 10px;"/>
-</a>
-<a href="https://www.linkedin.com/in/mdmamunabdullah/" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/32/000000/linkedin.png" alt="LinkedIn" style="margin-right: 10px;"/>
-</a>
-<a href="https://codeforces.com/profile/mamun8854" target="_blank">
-  <img src="https://sta.codeforces.com/s/17645/images/codeforces-logo-with-telegram.png" alt="Codeforces" width="32" style="margin-right: 10px;"/>
-</a>
+[![Email](https://img.icons8.com/ios-filled/20/000000/email.png)](mailto:abdullahalmamun.cs@gmail.com)
+**Email**: abdullahalmamun.cs@gmail.com  
+<br/>
+
+[![Facebook](https://img.icons8.com/ios-filled/20/000000/facebook-new.png)](https://www.facebook.com/mridha8854)
+**Facebook**: Md. Abdullah Al Mamun  
+<br/>
+
+[![LinkedIn](https://img.icons8.com/ios-filled/20/000000/linkedin.png)](https://www.linkedin.com/in/mdmamunabdullah/)
+**LinkedIn**: Md. Abdullah Al Mamun  
+<br/>
+
+[![Codeforces](https://sta.codeforces.com/s/17645/images/codeforces-logo-with-telegram.png)](https://codeforces.com/profile/mamun8854)
+**Codeforces**: mamun8854
 
 
