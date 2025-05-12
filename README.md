@@ -15,6 +15,6 @@ I am passionate about **Web Based Software Development** and currently expanding
 
 ## 📫 Connect with Me
 - **Email**: [abdullahalmamun.cs@gmail.com](mailto:abdullahalmamun.cs@gmail.com)
-- **Facebook**: [md.abdullahalmamun.mamun.712](https://www.facebook.com/md.abdullahalmamun.mamun.712)
+- **Facebook**: [Md. Abdullah Al Mamun](https://www.facebook.com/mridha8854)
 - **LinkedIn**: [Md. Abdullah Al Mamun](https://www.linkedin.com/in/mdmamunabdullah/)
 - **Codeforces**: [mamun8854](https://codeforces.com/profile/mamun8854)
